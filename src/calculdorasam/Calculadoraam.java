@@ -6,6 +6,8 @@ package calculdorasam;
  * 
  * Autor: Samuel Nojoza
  * 
+ * Data: 28/03/2023
+ * 
  */
 public class Calculadoraam {
 

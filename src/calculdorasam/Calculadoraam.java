@@ -2,7 +2,7 @@ package calculdorasam;
 /*
  * Calculadora
  * 
- * Versão: 1.0
+ * Versão: 1.0.1
  * 
  * Autor: Samuel Nojoza
  * 

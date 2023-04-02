@@ -27,13 +27,11 @@ public class Calculadoraam {
 		System.out.println("Qual o segundo número?");	
 		num2 = input.nextInt();
 		
-		
-		
-				
 		System.out.println("A soma desses números é :"+(num1 + num2));
 		System.out.println("A subtração desses números é :"+(num1 - num2));
 		System.out.println("A multiplicação desses números é :"+(num1 * num2));
 		System.out.println("A divisão desses números é :"+(num1 / num2));
+		
 		
 	}
 
